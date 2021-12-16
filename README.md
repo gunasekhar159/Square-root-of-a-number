@@ -26,7 +26,7 @@ fun()
 ```
 
 ## Output:
-![output](square)
+![output](https://github.com/gunasekhar159/Square-root-of-a-number/blob/main/WhatsApp%20Image%202021-12-16%20at%2011.06.04%20AM.jpeg?raw=true)
 
 
 ## Result:
